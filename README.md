@@ -2,7 +2,8 @@
 - 👀 I’m interested in Making Cross Platform apps
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on Working with new ideas
-- 📫 Contact me on email or 9494954594
+- 📫 Contact me on email
+- i am an Indian.
 
 <!---
 vinayreddy9999/vinayreddy9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
