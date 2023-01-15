@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on Working with new ideas
 - 📫 Contact me on email
-- i am an Indian.
+- I Am An Indian.
 
 <!---
 vinayreddy9999/vinayreddy9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
